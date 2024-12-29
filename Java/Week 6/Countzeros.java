@@ -1,4 +1,4 @@
-class Recursion {
+class Countzeros {
 
   // Count the number of zeros in a number recursively
     static int countzero(int n){
